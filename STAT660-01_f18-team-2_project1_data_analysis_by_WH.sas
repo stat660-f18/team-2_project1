@@ -20,9 +20,8 @@ See included file for dataset properties
 * set relative file import path to current directory (using standard SAS trick);
 X "cd ""%substr(%sysget(SAS_EXECFILEPATH),1,%eval(%length(%sysget(SAS_EXECFILEPATH))-%length(%sysget(SAS_EXECFILENAME))))""";
 
-
 * load external file that generates analytic dataset FRPM1516_analytic_file;
-%include '.\STAT6250-02_s17-team-2_project1_data_preparation.sas'
+%include '.\STAT660-01_f18-team-2_project1_data_preparation.sas'
 
 ;
 
