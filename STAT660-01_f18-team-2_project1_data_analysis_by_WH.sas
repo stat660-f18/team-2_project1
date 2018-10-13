@@ -26,12 +26,12 @@ X "cd ""%substr(%sysget(SAS_EXECFILEPATH),1,%eval(%length(%sysget(SAS_EXECFILEPA
 ;
 
 title1
-'Research Question:  What was the most common reason for the absenteesim?'
+'Research Question:  What was the most common reason for the absenteeism?'
 
 ;
 
 title2
-'Rationale: This would help to find out whether most of the workers were havign the same reason for absenteesim. '
+'Rationale: This would help to find out whether most of the workers were having the same reason for absenteeism. '
 
 ;
 
@@ -41,7 +41,7 @@ footnote1
 ;
 
 footnote2
-'After grouping by ID, we could find the most common reason for absence for each employee.For example, employee 28 used reason 23 for 32 times.'
+'After grouping by ID, we could also find the most common reason for absenteeism for each employee.For example, employee 28 used reason 23 for 32 times.'
 
 ;
 
@@ -77,7 +77,7 @@ footnote;
 
 
 title1
-'Research Question: What are the reasons with longer absenteeism hours?'
+'Research Question: Which reason was related to the longest absenteeism hours?'
 
 ;
 
@@ -87,17 +87,17 @@ title2
 ;
 
 footnote1
-'Based on the summary table, diseases of the circulatory system had the longest average absenteeism hours which is 42 hours. '
+'Based on the summary table, diseases of the circulatory system had the longest average absenteeism hours which was 42 hours. '
 
 ;
 
 footnote2
-'The the average of absenteeism time in hours is only 6.99 hours.'
+'The the average of absenteeism time in hours was only 6.99 hours.'
 
 ;
 
 footnote3
-'This could tell us there would be a high chance that a employee who takes absence for the reason of circulatory system would have a longer absenttesim time.' 
+'This could tell us that there would be a high chance if a employee who takes absence for the reason of circulatory system would have a longer absenttesim time.' 
 
 ;
 *
@@ -135,17 +135,17 @@ title;
 footnote;
 
 title1
-'Research Question: Is there a special day in a week that employees might be absent? '
+'Research Question: Was there a special day in a week that had higher frequence that employees was absent? '
 
 ;
 
 title2
-'Rationale: In reality, it would help with weekly work schedule.'
+'Rationale: In reality, it would help with the weekly work schedule.'
 
 ;
 
 footnote1
-'Based on the summary table, the frequency of each work day in a week is from 19%-22.34% which are round 20%.'
+'Based on the summary table, the frequency of each work day in a week was from 19%-22.34% which are very close to 20%.'
 
 ;
 
